@@ -1,8 +1,9 @@
 .statistics {
   margin: 0 auto;
   padding: 40px 40px;
-  background-color: rgb(234, 255, 175);
+  background-color: rgb(241, 255, 198);
   width: 400px;
+  margin-bottom: 20px;
 }
 
 .title {
